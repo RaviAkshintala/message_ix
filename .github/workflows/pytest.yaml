@@ -35,7 +35,7 @@ jobs:
         os:
         - macos-13
         - macos-latest
-        - ubuntu-latest
+        - ubuntu-22.04
         - windows-latest
         python-version:
         - "3.9"   # Earliest version supported by message_ix
